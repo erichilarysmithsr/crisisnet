@@ -31,7 +31,7 @@
     "passport-http-bearer": "~1.0.1",
     "passport-github": "~0.1.5",
     "elasticsearch": "~2.1.4",
-    "request": "~2.34.0",
+    "request": "~2.88.2",
     "fast-csv": "~0.3.0",
     "newrelic": "~1.5.5",
     "winston-posix-syslog": "0.0.7",
