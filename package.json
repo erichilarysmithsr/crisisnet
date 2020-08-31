@@ -19,7 +19,7 @@
     "cors": "2.1.1",
     "mongoose": "~3.8.7",
     "promise": "~4.0.0",
-    "moment": "~2.5.1",
+    "moment": "~2.27.0",
     "mongoose-validator": "~0.2.2",
     "underscore.string": "~2.3.3",
     "hogan-express": "~0.5.2",
