@@ -32,7 +32,7 @@
     "passport-github": "~0.1.5",
     "elasticsearch": "~2.1.4",
     "request": "~2.34.0",
-    "fast-csv": "~0.3.0",
+    "fast-csv": "~4.3.6",
     "newrelic": "~1.5.5",
     "winston-posix-syslog": "0.0.7",
     "json2csv": "~2.2.1",
