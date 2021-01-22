@@ -30,7 +30,7 @@
     "express-form": "~0.10.1",
     "passport-http-bearer": "~1.0.1",
     "passport-github": "~0.1.5",
-    "elasticsearch": "~2.1.4",
+    "elasticsearch": "~16.7.2",
     "request": "~2.34.0",
     "fast-csv": "~0.3.0",
     "newrelic": "~1.5.5",
